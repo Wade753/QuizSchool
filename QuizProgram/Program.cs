@@ -4,12 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//your name
-//your course name
-//your id
-//----------------
 //------------Exper..... programming -------------------
-//date
 
 namespace QuizProgram
 {
